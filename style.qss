@@ -1,0 +1,27 @@
+QWidget {
+    background-color: #f0f2f5;
+    font-family: Arial;
+    font-size: 16px;
+}
+
+/* Nút to, bo tròn đẹp */
+QPushButton {
+    background-color: #1e88e5;
+    color: white;
+    padding: 12px;
+    border-radius: 10px;
+    font-weight: bold;
+}
+
+QPushButton:hover {
+    background-color: #1565c0;
+}
+
+QPushButton:pressed {
+    background-color: #0d47a1;
+}
+
+/* Nhãn kết quả */
+QLabel {
+    font-size: 18px;
+}

@@ -1,0 +1,88 @@
+# ========== UNITY ==========
+
+# Unity generated folders
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+MemoryCaptures/
+UserSettings/
+
+# Unity cache
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+
+# Unity autosaved scene
+*.unity.backup
+
+# Crash reports
+sysinfo.txt
+
+# ========== OS ==========
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# ========== IDEs ==========
+
+# VS Code
+.vscode/
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# Visual Studio
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.vcxproj*
+*.ncb
+*.aps
+*.ilk
+*.log
+*.vs/
+
+# MonoDevelop
+*.pidb
+
+# ========== PACKAGES/EXTERNAL ==========
+
+# Ignore node_modules if used with web requests or npm tools
+node_modules/
+
+# ========== OTHER ==========
+
+# Built files
+*.apk
+*.aab
+*.exe
+*.dll
+*.app
+*.msi
+*.zip
+*.rar
+*.tar.gz
+*.7z
+
+# Backup files
+*.bak
+*.tmp
+*.old
+
+# Don't ignore Asset meta files (keep track of assets)
+!*.meta
